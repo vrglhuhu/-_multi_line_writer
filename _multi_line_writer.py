@@ -20,13 +20,13 @@ def write_to_file():
  # OPEN file 'mylife.txt' in write mode
  with open('mylife.txt', 'w') as file:
   # SET line equal to user input of a line of text
- 
+  line = input("Enter line: ")
   # WRITE line to file with newline character
-  
+  file.write(line + '\n')
   # SET line_choice equal to user input of 'y' or 'n'
-  
-  # WHILE line_choice is equal to 'y'
-  
+  line_choice = input("Enter another line? (y/n): ")
+  # WHILE line_choice.lower is equal to 'y'
+while line_choice.lower() == 'y':
     # SET line equal to user input of a line of text
     
     # WRITE line to file with newline character
@@ -34,6 +34,3 @@ def write_to_file():
     # SET line_choice equal to user input of 'y' or 'n'
     
   # CLOSE file
- 
-  
-
