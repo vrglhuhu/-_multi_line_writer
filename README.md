@@ -4,24 +4,18 @@
 
 _I am Chean Bernard V. Vergel.  I am 18 years old and currently I am a first year college student taking my Bachelors' degree in Computer Engineering at Polytechnic University of the Philippines.  I believe that technology is something that has completely changed the way we live today and I am excited to be part of this ever-evolving world.  A famous quote I always like to keep in mind is "The only way to predict the future is to create it." - Abraham Lincoln._
 
-# _**My Multi Line writer**_
+# _**My Multi Line Writer**_
 
 _Let this program ask you to input lines that you wnat to input in a text file!_
 
 # _**Introduction**_
 > This program is designed to allow a user to enter a line of text into a txt file. It prompts the user to enter a line of text, then writes it to the mylife.txt file. The program also allows the user to enter multiple lines of text by prompting them to enter 'y' or 'n' after each line. Additionally, the program includes a greeting to the user after each line is written to the file. Finally, the program ends with a thank you message and a goodbye message.
 # _**Features**_
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
+- > Prompts the user to enter a line of text 
+- > Writes the line of text to the mylife.txt file 
+- > Allows the user to enter multiple lines of text 
+- > Includes a greeting to the user after each line is written
+- > Ends with a thank you message and a goodbye message
 
 # _**How the user will run this program?**_
 - > 
