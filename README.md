@@ -11,20 +11,23 @@ _Let this program ask you to input lines that you wnat to input in a text file!_
 # _**Introduction**_
 > This program is designed to allow a user to enter a line of text into a txt file. It prompts the user to enter a line of text, then writes it to the mylife.txt file. The program also allows the user to enter multiple lines of text by prompting them to enter 'y' or 'n' after each line. Additionally, the program includes a greeting to the user after each line is written to the file. Finally, the program ends with a thank you message and a goodbye message.
 # _**Features**_
-- > Prompts the user to enter a line of text 
-- > Writes the line of text to the mylife.txt file 
-- > Allows the user to enter multiple lines of text 
-- > Includes a greeting to the user after each line is written
-- > Ends with a thank you message and a goodbye message
+- > Prompts the user to enter a line of text.
+- > Writes the line of text to the mylife.txt file. 
+- > Allows the user to enter multiple lines of text. 
+- > Includes a greeting to the user after each line is written.
+- > Ends with a thank you message and a goodbye message.
 
 # _**How the user will run this program?**_
-- > 
-- > 
-- > 
-- > 
-- > 
-- > 
-
+- > The user will open their command line/terminal or visual studio.
+- > The program will prompt the user for their name.
+- > The user will enter their name.
+- > The program will ask the user to enter a line of text.
+- > The user will enter the line of text.
+- > The program will ask the user if they want to enter another line.
+- > The user will answer "y" or "n".
+- > The program will write the line of text to a text file.
+- > The program will display a message indicating that the output is in the text file.
+- > The program will thank the user and ask them to visit again.
 # _**How to run this program using IDE?**_
 - > **1st step** - You have to install any of the popular IDEs such as PyCharm, Atom, or Visual Studio Code to run this program.
 - > **2nd step** - After you have installed and opened the IDE, open the file containing the program.
