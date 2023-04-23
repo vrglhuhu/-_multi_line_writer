@@ -16,6 +16,12 @@ print("=" * 80)
 print("\033[33mHi, I am Chean Bernard V. Vergel a first year college student at Polytechnic University of the Philippines.\033[0m")
 print("")
 
+# Ask for the name of the user
+name_user = input("\033[40mHow about you what is your name? \033[0m")
+print("")
+print("\033[40m\033[33mI welcome you on this program. \033[0m")
+print("\033[0m")
+
 # DEFINE write_to_file
 def write_to_file():
  # OPEN file 'mylife.txt' in write mode
