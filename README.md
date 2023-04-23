@@ -31,14 +31,12 @@ _Let this program ask you to input lines that you wnat to input in a text file!_
 # _**How to run this program using IDE?**_
 - > **1st step** - You have to install any of the popular IDEs such as PyCharm, Atom, or Visual Studio Code to run this program.
 - > **2nd step** - After you have installed and opened the IDE, open the file containing the program.
-- > **3rd step** - 
-- > **4th step** - 
-- > **5th step** - 
-- > **6th step** - 
-- > **7th step** - 
-- > **8th step** - 
-- > **9th step** - 
-
+- > **3rd step** - Create a new file, name it, and save it as .py file. 
+- > **4th step** - Copy and paste the code from this question on the file. 
+- > **5th step** - The program should now be running. Follow the prompts to enter text lines and see the output.
+- > **6th step** - Select the code and press CTRL+ALT+N to run the program. 
+- > **7th step** - The program will be executed in the terminal. 
+ 
 # _**Find me around the web**_ :earth_asia::earth_asia::earth_asia::
 _Please contact me at :envelope_with_arrow: vergelbernardchean@gmail.com or call me at :telephone_receiver: 0912-367-8985 if you have any questions._
 
