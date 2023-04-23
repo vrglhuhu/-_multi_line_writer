@@ -35,11 +35,13 @@ def write_to_file():
     # SET line_choice equal to user input of 'y' or 'n'
       line_choice = input("Enter another line? (y/n): ")
     # Make a greeting for the user  
-      greetings = ["You are making great progress!, You have what it takes, You are amazing!, It is awesome!"]
+      greetings = ["You are making great progress!", "You have what it takes", "You are amazing!, It is awesome!"]
       print(random.choice(greetings))
 
   # CLOSE file
   file.close()
-  print("Writing to file complete")
+  print("\033[32mThe program is now writing it to txt file.\033[32m ")
+  # State that the output is in the txt files
+  print("\033[32mPlease have time to visit the mylife.txt, if you want to look on the outputs.\033[32m")
   
 write_to_file()
