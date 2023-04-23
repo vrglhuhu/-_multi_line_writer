@@ -24,8 +24,8 @@ print("")
 
 # DEFINE write_to_file
 def write_to_file():
+  
  # OPEN file 'mylife.txt' in write mode
-
   with open('mylife.txt', 'w') as file:
   # SET line equal to user input of a line of text
 
@@ -69,7 +69,7 @@ def write_to_file():
   file.close()
   print("")
   print("\033[32mThe program is now writing it to txt file.\033[32m ")
-  
+
   # State that the output is in the txt files
   print("")
   print("\033[32mPlease have time to visit the mylife.txt, if you want to look on the outputs.\033[32m")
