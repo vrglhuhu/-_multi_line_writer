@@ -9,7 +9,7 @@ _I am Chean Bernard V. Vergel.  I am 18 years old and currently I am a first ye
 _Let this program ask you to input lines that you wnat to input in a text file!_
 
 # _**Introduction**_
-
+> This program is designed to allow a user to enter a line of text into a txt file. It prompts the user to enter a line of text, then writes it to the mylife.txt file. The program also allows the user to enter multiple lines of text by prompting them to enter 'y' or 'n' after each line. Additionally, the program includes a greeting to the user after each line is written to the file. Finally, the program ends with a thank you message and a goodbye message.
 # _**Features**_
 - > 
 - > 
