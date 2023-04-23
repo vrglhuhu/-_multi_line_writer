@@ -4,6 +4,7 @@
 
 # Creating header 
 import pyfiglet
+import random
 
 print("")
 print("=" * 80)
@@ -33,6 +34,10 @@ def write_to_file():
       file.write(line + '\n')
     # SET line_choice equal to user input of 'y' or 'n'
       line_choice = input("Enter another line? (y/n): ")
+    # Make a greeting for the user  
+      greetings = ["You are making great progress!, You have what it takes, You are amazing!, It is awesome!"]
+      print(random.choice(greetings))
+
   # CLOSE file
   file.close()
   print("Writing to file complete")
